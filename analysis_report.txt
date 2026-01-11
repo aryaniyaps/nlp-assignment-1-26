@@ -1,0 +1,49 @@
+================================================================================
+COMPARATIVE VOCABULARY ANALYSIS: WAR AND PEACE
+English vs Tamil Translation
+================================================================================
+
+1. BASIC STATISTICS
+--------------------------------------------------------------------------------
+Metric                                           English           Tamil
+--------------------------------------------------------------------------------
+Total Tokens (after preprocessing)               263,675           1,753
+Vocabulary Size (Unique Words)                    14,949             860
+Type-Token Ratio (Lexical Diversity)              0.0567          0.4906
+
+2. TOP 20 MOST FREQUENT WORDS
+--------------------------------------------------------------------------------
+English Words                Frequency | Tamil Words                  Frequency
+--------------------------------------------------------------------------------
+said                             2,834 | அத்தியாயம்                         366
+one                              2,156 | மற்றும்                             36
+pierre                           1,949 | ஒரு                                 29
+prince                           1,925 | நான்                                27
+would                            1,360 | அவர்                                26
+natásha                          1,205 | அவள்                                24
+man                              1,156 | என்று                               21
+andrew                           1,136 | புத்தகம்                            16
+could                            1,110 | நீங்கள்                             15
+time                             1,060 | ஆனால்                               12
+face                             1,047 | இளவரசர்                             12
+princess                           933 | அவரது                                9
+know                               917 | கூறினார்                             9
+thought                            878 | வேண்டும்                             9
+eye                                872 | பாவ்லோவ்னா                           8
+french                             869 | இல்லை                                8
+went                               858 | என்ன                                 8
+room                               816 | செய்ய                                7
+old                                800 | அன்னா                                7
+hand                               790 | மிகவும்                              7
+
+3. COMPARATIVE ANALYSIS
+--------------------------------------------------------------------------------
+• Vocabulary Size Difference: 14,089 words (94.25%)
+  English has a larger vocabulary in this processed form
+
+• Lexical Diversity (Type-Token Ratio):
+  English TTR: 0.0567
+  Tamil TTR: 0.4906
+  Tamil shows higher lexical diversity, likely due to morphological variations
+
+================================================================================
