@@ -36,14 +36,10 @@ room                               816 | செய்ய                        
 old                                800 | அன்னா                                7
 hand                               790 | மிகவும்                              7
 
-3. COMPARATIVE ANALYSIS
+3. ANALYSIS
 --------------------------------------------------------------------------------
-• Vocabulary Size Difference: 14,089 words (94.25%)
-  English has a larger vocabulary in this processed form
+Vocabulary size difference: 14,089 words (94.25%)
+English has larger vocabulary in this processed form.
 
-• Lexical Diversity (Type-Token Ratio):
-  English TTR: 0.0567
-  Tamil TTR: 0.4906
-  Tamil shows higher lexical diversity, likely due to morphological variations
-
+Both languages follow Zipf's Law in frequency distribution.
 ================================================================================
